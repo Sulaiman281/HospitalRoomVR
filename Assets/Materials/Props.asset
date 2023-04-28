@@ -20,9 +20,9 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0.00012207031
       y: 0.00012207031
-      width: 0.19970703
-      height: 0.19970703
-    srcObjName: SM_pill_02 (1)
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_antiseptic
     textureArraySliceIdx: -1
     allPropsUseSameTiling: 1
     allPropsUseSameTiling_sourceMaterialTiling:
@@ -44,391 +44,14 @@ MonoBehaviour:
       width: 0
       height: 0
     tilingTreatment: 0
-  - material: {fileID: 2100000, guid: f090b614b684dc443a70f35bcd576ce8, type: 2}
+  - material: {fileID: 2100000, guid: 102f8235b866e2d42a613ef51d78ea48, type: 2}
     atlasRect:
       serializedVersion: 2
-      x: 0.8000488
-      y: 0.60009766
-      width: 0.19970703
-      height: 0.19970703
-    srcObjName: SM_medical_picture_03
-    textureArraySliceIdx: -1
-    allPropsUseSameTiling: 1
-    allPropsUseSameTiling_sourceMaterialTiling:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    allPropsUseSameTiling_samplingEncapsulatinRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    propsUseDifferntTiling_srcUVsamplingRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 0
-      height: 0
-    tilingTreatment: 0
-  - material: {fileID: 2100000, guid: d61a9d3205fd0e546b66846a2a3f8db3, type: 2}
-    atlasRect:
-      serializedVersion: 2
-      x: 0.60009766
-      y: 0.60009766
-      width: 0.19970703
-      height: 0.19970703
-    srcObjName: SM_hospital_bowl (1)
-    textureArraySliceIdx: -1
-    allPropsUseSameTiling: 1
-    allPropsUseSameTiling_sourceMaterialTiling:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    allPropsUseSameTiling_samplingEncapsulatinRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    propsUseDifferntTiling_srcUVsamplingRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 0
-      height: 0
-    tilingTreatment: 0
-  - material: {fileID: 2100000, guid: 0496e0f7b2a8fdc498ebaccd1de8d4d2, type: 2}
-    atlasRect:
-      serializedVersion: 2
-      x: 0.4000244
-      y: 0.8000488
-      width: 0.1998291
-      height: 0.19970703
-    srcObjName: SM_hospital_towel_02
-    textureArraySliceIdx: -1
-    allPropsUseSameTiling: 1
-    allPropsUseSameTiling_sourceMaterialTiling:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    allPropsUseSameTiling_samplingEncapsulatinRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    propsUseDifferntTiling_srcUVsamplingRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 0
-      height: 0
-    tilingTreatment: 0
-  - material: {fileID: 2100000, guid: e4d7ba3b43ec8b94b9355ded4cc168cd, type: 2}
-    atlasRect:
-      serializedVersion: 2
-      x: 0.4000244
-      y: 0.60009766
-      width: 0.1998291
-      height: 0.19970703
-    srcObjName: SM_hospital_roomdivider
-    textureArraySliceIdx: -1
-    allPropsUseSameTiling: 1
-    allPropsUseSameTiling_sourceMaterialTiling:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    allPropsUseSameTiling_samplingEncapsulatinRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    propsUseDifferntTiling_srcUVsamplingRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 0
-      height: 0
-    tilingTreatment: 0
-  - material: {fileID: 2100000, guid: e5b161ae3d30e6041a5863d562c02f1d, type: 2}
-    atlasRect:
-      serializedVersion: 2
-      x: 0.8000488
-      y: 0.4000244
-      width: 0.19970703
-      height: 0.1998291
-    srcObjName: SM_shelf
-    textureArraySliceIdx: -1
-    allPropsUseSameTiling: 1
-    allPropsUseSameTiling_sourceMaterialTiling:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    allPropsUseSameTiling_samplingEncapsulatinRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    propsUseDifferntTiling_srcUVsamplingRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 0
-      height: 0
-    tilingTreatment: 0
-  - material: {fileID: 2100000, guid: ad7fc0b89acbb4b49ab7caba6d27d5f9, type: 2}
-    atlasRect:
-      serializedVersion: 2
-      x: 0.8000488
-      y: 0.8000488
-      width: 0.099853516
-      height: 0.099853516
-    srcObjName: SM_shelf_doily
-    textureArraySliceIdx: -1
-    allPropsUseSameTiling: 1
-    allPropsUseSameTiling_sourceMaterialTiling:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    allPropsUseSameTiling_samplingEncapsulatinRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    propsUseDifferntTiling_srcUVsamplingRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 0
-      height: 0
-    tilingTreatment: 0
-  - material: {fileID: 2100000, guid: 6b702beb08deb8745bf1c7405e517080, type: 2}
-    atlasRect:
-      serializedVersion: 2
-      x: 0.60009766
-      y: 0.4000244
-      width: 0.19970703
-      height: 0.1998291
-    srcObjName: SM_syringe
-    textureArraySliceIdx: -1
-    allPropsUseSameTiling: 1
-    allPropsUseSameTiling_sourceMaterialTiling:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    allPropsUseSameTiling_samplingEncapsulatinRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    propsUseDifferntTiling_srcUVsamplingRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 0
-      height: 0
-    tilingTreatment: 0
-  - material: {fileID: 2100000, guid: c14e7fec144ecca49a2164d658493c6e, type: 2}
-    atlasRect:
-      serializedVersion: 2
-      x: 0.4000244
-      y: 0.4000244
-      width: 0.1998291
-      height: 0.1998291
-    srcObjName: SM_syringe
-    textureArraySliceIdx: -1
-    allPropsUseSameTiling: 1
-    allPropsUseSameTiling_sourceMaterialTiling:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    allPropsUseSameTiling_samplingEncapsulatinRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    propsUseDifferntTiling_srcUVsamplingRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 0
-      height: 0
-    tilingTreatment: 0
-  - material: {fileID: 2100000, guid: b5f499820b7e6db45b9d4fef60e6b242, type: 2}
-    atlasRect:
-      serializedVersion: 2
-      x: 0.20007324
-      y: 0.8000488
-      width: 0.19970703
-      height: 0.19970703
-    srcObjName: SM_tape_02
-    textureArraySliceIdx: -1
-    allPropsUseSameTiling: 1
-    allPropsUseSameTiling_sourceMaterialTiling:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    allPropsUseSameTiling_samplingEncapsulatinRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    propsUseDifferntTiling_srcUVsamplingRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 0
-      height: 0
-    tilingTreatment: 0
-  - material: {fileID: 2100000, guid: 425bb49efaae7b64d93d7f141ae114aa, type: 2}
-    atlasRect:
-      serializedVersion: 2
-      x: 0.20007324
-      y: 0.60009766
-      width: 0.19970703
-      height: 0.19970703
-    srcObjName: SM_pot_plant_01
-    textureArraySliceIdx: -1
-    allPropsUseSameTiling: 1
-    allPropsUseSameTiling_sourceMaterialTiling:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    allPropsUseSameTiling_samplingEncapsulatinRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    propsUseDifferntTiling_srcUVsamplingRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 0
-      height: 0
-    tilingTreatment: 0
-  - material: {fileID: 2100000, guid: aca5cc839d8f9aa44a6636c62570cbf7, type: 2}
-    atlasRect:
-      serializedVersion: 2
-      x: 0.20007324
-      y: 0.4000244
-      width: 0.19970703
-      height: 0.1998291
-    srcObjName: SM_soap_stand
-    textureArraySliceIdx: -1
-    allPropsUseSameTiling: 1
-    allPropsUseSameTiling_sourceMaterialTiling:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    allPropsUseSameTiling_samplingEncapsulatinRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    propsUseDifferntTiling_srcUVsamplingRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 0
-      height: 0
-    tilingTreatment: 0
-  - material: {fileID: 2100000, guid: 9fac2e30dc40349478a9296b9a15cc16, type: 2}
-    atlasRect:
-      serializedVersion: 2
-      x: 0.8000488
-      y: 0.20007324
-      width: 0.19970703
-      height: 0.19970703
-    srcObjName: SM_medical_bottle_07
-    textureArraySliceIdx: -1
-    allPropsUseSameTiling: 1
-    allPropsUseSameTiling_sourceMaterialTiling:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    allPropsUseSameTiling_samplingEncapsulatinRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    propsUseDifferntTiling_srcUVsamplingRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 0
-      height: 0
-    tilingTreatment: 0
-  - material: {fileID: 2100000, guid: 9c75b0d363026854289109661d26aaab, type: 2}
-    atlasRect:
-      serializedVersion: 2
-      x: 0.60009766
-      y: 0.20007324
-      width: 0.19970703
-      height: 0.19970703
-    srcObjName: SM_hospital_trolley_02
-    textureArraySliceIdx: -1
-    allPropsUseSameTiling: 1
-    allPropsUseSameTiling_sourceMaterialTiling:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    allPropsUseSameTiling_samplingEncapsulatinRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    propsUseDifferntTiling_srcUVsamplingRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 0
-      height: 0
-    tilingTreatment: 0
-  - material: {fileID: 2100000, guid: a9df4417901de504b8c3ad2b7017a692, type: 2}
-    atlasRect:
-      serializedVersion: 2
-      x: 0.4000244
-      y: 0.20007324
-      width: 0.1998291
-      height: 0.19970703
-    srcObjName: SM_hospital_coatrack_03
+      x: 0.2503662
+      y: 0.00012207031
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_first_aid_kit
     textureArraySliceIdx: -1
     allPropsUseSameTiling: 1
     allPropsUseSameTiling_sourceMaterialTiling:
@@ -453,10 +76,10 @@ MonoBehaviour:
   - material: {fileID: 2100000, guid: c7bd11695df6734449028f8318f2e10d, type: 2}
     atlasRect:
       serializedVersion: 2
-      x: 0.20007324
-      y: 0.20007324
-      width: 0.19970703
-      height: 0.19970703
+      x: 0.50061035
+      y: 0.00012207031
+      width: 0.25
+      height: 0.25
     srcObjName: SM_hospital_cabinet_double
     textureArraySliceIdx: -1
     allPropsUseSameTiling: 1
@@ -483,9 +106,9 @@ MonoBehaviour:
     atlasRect:
       serializedVersion: 2
       x: 0.00012207031
-      y: 0.8000488
-      width: 0.19970703
-      height: 0.19970703
+      y: 0.2503662
+      width: 0.25
+      height: 0.25
     srcObjName: hospital_cabinet_double_door01
     textureArraySliceIdx: -1
     allPropsUseSameTiling: 1
@@ -508,14 +131,130 @@ MonoBehaviour:
       width: 0
       height: 0
     tilingTreatment: 0
-  - material: {fileID: 2100000, guid: 94c3dfd0696127a428a187c114b35136, type: 2}
+  - material: {fileID: 2100000, guid: a9df4417901de504b8c3ad2b7017a692, type: 2}
     atlasRect:
       serializedVersion: 2
       x: 0.00012207031
-      y: 0.60009766
-      width: 0.19970703
-      height: 0.19970703
-    srcObjName: SM_forceps_03
+      y: 0.50061035
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_hospital_coatrack_04
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 0496e0f7b2a8fdc498ebaccd1de8d4d2, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.2503662
+      y: 0.2503662
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_hospital_towel_01
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 9c75b0d363026854289109661d26aaab, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.50061035
+      y: 0.2503662
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_hospital_trolley_02
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 425bb49efaae7b64d93d7f141ae114aa, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.2503662
+      y: 0.50061035
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_pot_plant
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 22d4a02f5eafa7948a5790aaf018fe59, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.50061035
+      y: 0.50061035
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_hospital_bed_01
     textureArraySliceIdx: -1
     allPropsUseSameTiling: 1
     allPropsUseSameTiling_sourceMaterialTiling:
@@ -541,9 +280,9 @@ MonoBehaviour:
     atlasRect:
       serializedVersion: 2
       x: 0.00012207031
-      y: 0.4000244
-      width: 0.19970703
-      height: 0.1998291
+      y: 0.00012207031
+      width: 0.25
+      height: 0.25
     srcObjName: SM_hospital_bucket
     textureArraySliceIdx: -1
     allPropsUseSameTiling: 1
@@ -566,43 +305,14 @@ MonoBehaviour:
       width: 0
       height: 0
     tilingTreatment: 0
-  - material: {fileID: 2100000, guid: 102f8235b866e2d42a613ef51d78ea48, type: 2}
+  - material: {fileID: 2100000, guid: 94c3dfd0696127a428a187c114b35136, type: 2}
     atlasRect:
       serializedVersion: 2
-      x: 0.00012207031
-      y: 0.20007324
-      width: 0.19970703
-      height: 0.19970703
-    srcObjName: SM_first_aid_kit
-    textureArraySliceIdx: -1
-    allPropsUseSameTiling: 1
-    allPropsUseSameTiling_sourceMaterialTiling:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    allPropsUseSameTiling_samplingEncapsulatinRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 1
-      height: 1
-    propsUseDifferntTiling_srcUVsamplingRect:
-      serializedVersion: 2
-      x: 0
-      y: 0
-      width: 0
-      height: 0
-    tilingTreatment: 0
-  - material: {fileID: 2100000, guid: a59362f7f3c894e43b7a21b738de4f97, type: 2}
-    atlasRect:
-      serializedVersion: 2
-      x: 0.8000488
+      x: 0.2503662
       y: 0.00012207031
-      width: 0.19970703
-      height: 0.19970703
-    srcObjName: SM_clothing_brush
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_forceps_03
     textureArraySliceIdx: -1
     allPropsUseSameTiling: 1
     allPropsUseSameTiling_sourceMaterialTiling:
@@ -627,10 +337,10 @@ MonoBehaviour:
   - material: {fileID: 2100000, guid: 8d91bdff04b06d4419b253f649a69102, type: 2}
     atlasRect:
       serializedVersion: 2
-      x: 0.60009766
+      x: 0.50061035
       y: 0.00012207031
-      width: 0.19970703
-      height: 0.19970703
+      width: 0.25
+      height: 0.25
     srcObjName: SM_hospital_bedside_table_02
     textureArraySliceIdx: -1
     allPropsUseSameTiling: 1
@@ -653,14 +363,14 @@ MonoBehaviour:
       width: 0
       height: 0
     tilingTreatment: 0
-  - material: {fileID: 2100000, guid: 22d4a02f5eafa7948a5790aaf018fe59, type: 2}
+  - material: {fileID: 2100000, guid: e5b161ae3d30e6041a5863d562c02f1d, type: 2}
     atlasRect:
       serializedVersion: 2
-      x: 0.4000244
-      y: 0.00012207031
-      width: 0.1998291
-      height: 0.19970703
-    srcObjName: SM_hospital_bed_01
+      x: 0.00012207031
+      y: 0.2503662
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_shelf
     textureArraySliceIdx: -1
     allPropsUseSameTiling: 1
     allPropsUseSameTiling_sourceMaterialTiling:
@@ -682,14 +392,14 @@ MonoBehaviour:
       width: 0
       height: 0
     tilingTreatment: 0
-  - material: {fileID: 2100000, guid: 9b6a06e995c9e0b4d9f1ce2e7fc79444, type: 2}
+  - material: {fileID: 2100000, guid: f090b614b684dc443a70f35bcd576ce8, type: 2}
     atlasRect:
       serializedVersion: 2
-      x: 0.20007324
-      y: 0.00012207031
-      width: 0.19970703
-      height: 0.19970703
-    srcObjName: SM_hospital_bed_01
+      x: 0.00012207031
+      y: 0.50061035
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_medical_picture_04
     textureArraySliceIdx: -1
     allPropsUseSameTiling: 1
     allPropsUseSameTiling_sourceMaterialTiling:
@@ -711,14 +421,101 @@ MonoBehaviour:
       width: 0
       height: 0
     tilingTreatment: 0
-  - material: {fileID: 2100000, guid: a86d286ce33ce6b43bfce698a75cfced, type: 2}
+  - material: {fileID: 2100000, guid: c14e7fec144ecca49a2164d658493c6e, type: 2}
     atlasRect:
       serializedVersion: 2
-      x: 0.9001465
-      y: 0.8000488
-      width: 0.049926758
-      height: 0.049926758
-    srcObjName: WoodenParkChair
+      x: 0.2503662
+      y: 0.2503662
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_syringe
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: aca5cc839d8f9aa44a6636c62570cbf7, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.50061035
+      y: 0.2503662
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_soap_stand
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: d61a9d3205fd0e546b66846a2a3f8db3, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.2503662
+      y: 0.50061035
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_hospital_bowl
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: b5f499820b7e6db45b9d4fef60e6b242, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.50061035
+      y: 0.50061035
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_absorbent
     textureArraySliceIdx: -1
     allPropsUseSameTiling: 1
     allPropsUseSameTiling_sourceMaterialTiling:
@@ -743,10 +540,10 @@ MonoBehaviour:
   - material: {fileID: 2100000, guid: b06939d8a166d244bb7b1410a28ce505, type: 2}
     atlasRect:
       serializedVersion: 2
-      x: 0.60009766
-      y: 0.8000488
-      width: 0.19970703
-      height: 0.19970703
+      x: 0.00012207031
+      y: 0.00012207031
+      width: 0.25
+      height: 0.25
     srcObjName: Chair_01
     textureArraySliceIdx: -1
     allPropsUseSameTiling: 1
@@ -769,35 +566,274 @@ MonoBehaviour:
       width: 0
       height: 0
     tilingTreatment: 0
+  - material: {fileID: 2100000, guid: c36d25465b7e085429824562e8202703, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7508545
+      y: 0.00012207031
+      width: 0.125
+      height: 0.125
+    srcObjName: SM_picture_lamp
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 707a170839b527a46bd1bd4ca09b09d7, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.2503662
+      y: 0.00012207031
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_tweezers
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: c555a63f87c6fd7418b5d22c8e2fc508, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.50061035
+      y: 0.00012207031
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_toothbrush
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 9cb727d4dbdb97941b91998af81a9e63, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.00012207031
+      y: 0.2503662
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_sink_soap_02
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: ad7fc0b89acbb4b49ab7caba6d27d5f9, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.00012207031
+      y: 0.7508545
+      width: 0.125
+      height: 0.125
+    srcObjName: SM_shelf_doily
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 9fac2e30dc40349478a9296b9a15cc16, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.00012207031
+      y: 0.50061035
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_medical_bottle_07
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 6b702beb08deb8745bf1c7405e517080, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.2503662
+      y: 0.2503662
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_syringe
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 9b6a06e995c9e0b4d9f1ce2e7fc79444, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.50061035
+      y: 0.2503662
+      width: 0.25
+      height: 0.25
+    srcObjName: SM_hospital_bed_01
+    textureArraySliceIdx: -1
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
   resultMaterials:
-  - combinedMaterial: {fileID: 2100000, guid: 96719d016d34fda42adb37a6ea5a32c2, type: 2}
+  - combinedMaterial: {fileID: 2100000, guid: ee5c50d244693db49a84fdc8f1b0c34a, type: 2}
     considerMeshUVs: 0
     sourceMaterials:
-    - {fileID: 2100000, guid: 5e86e06f46f1f464994a85affb29ca21, type: 2}
-    - {fileID: 2100000, guid: f090b614b684dc443a70f35bcd576ce8, type: 2}
-    - {fileID: 2100000, guid: d61a9d3205fd0e546b66846a2a3f8db3, type: 2}
-    - {fileID: 2100000, guid: 0496e0f7b2a8fdc498ebaccd1de8d4d2, type: 2}
-    - {fileID: 2100000, guid: e4d7ba3b43ec8b94b9355ded4cc168cd, type: 2}
-    - {fileID: 2100000, guid: e5b161ae3d30e6041a5863d562c02f1d, type: 2}
-    - {fileID: 2100000, guid: ad7fc0b89acbb4b49ab7caba6d27d5f9, type: 2}
-    - {fileID: 2100000, guid: 6b702beb08deb8745bf1c7405e517080, type: 2}
-    - {fileID: 2100000, guid: c14e7fec144ecca49a2164d658493c6e, type: 2}
-    - {fileID: 2100000, guid: b5f499820b7e6db45b9d4fef60e6b242, type: 2}
-    - {fileID: 2100000, guid: 425bb49efaae7b64d93d7f141ae114aa, type: 2}
-    - {fileID: 2100000, guid: aca5cc839d8f9aa44a6636c62570cbf7, type: 2}
-    - {fileID: 2100000, guid: 9fac2e30dc40349478a9296b9a15cc16, type: 2}
-    - {fileID: 2100000, guid: 9c75b0d363026854289109661d26aaab, type: 2}
-    - {fileID: 2100000, guid: a9df4417901de504b8c3ad2b7017a692, type: 2}
+    - {fileID: 2100000, guid: 102f8235b866e2d42a613ef51d78ea48, type: 2}
     - {fileID: 2100000, guid: c7bd11695df6734449028f8318f2e10d, type: 2}
     - {fileID: 2100000, guid: 818a7ff115f8aba4e8180ca053aca2e0, type: 2}
-    - {fileID: 2100000, guid: 94c3dfd0696127a428a187c114b35136, type: 2}
-    - {fileID: 2100000, guid: c3c2434eff865b04e89918f41e320da7, type: 2}
-    - {fileID: 2100000, guid: 102f8235b866e2d42a613ef51d78ea48, type: 2}
-    - {fileID: 2100000, guid: a59362f7f3c894e43b7a21b738de4f97, type: 2}
-    - {fileID: 2100000, guid: 8d91bdff04b06d4419b253f649a69102, type: 2}
+    - {fileID: 2100000, guid: a9df4417901de504b8c3ad2b7017a692, type: 2}
+    - {fileID: 2100000, guid: 0496e0f7b2a8fdc498ebaccd1de8d4d2, type: 2}
+    - {fileID: 2100000, guid: 9c75b0d363026854289109661d26aaab, type: 2}
+    - {fileID: 2100000, guid: 425bb49efaae7b64d93d7f141ae114aa, type: 2}
     - {fileID: 2100000, guid: 22d4a02f5eafa7948a5790aaf018fe59, type: 2}
+    - {fileID: 2100000, guid: 5e86e06f46f1f464994a85affb29ca21, type: 2}
+  - combinedMaterial: {fileID: 2100000, guid: b09afadb94f5f8c4b8d138713e637f3c, type: 2}
+    considerMeshUVs: 0
+    sourceMaterials:
+    - {fileID: 2100000, guid: c3c2434eff865b04e89918f41e320da7, type: 2}
+    - {fileID: 2100000, guid: 94c3dfd0696127a428a187c114b35136, type: 2}
+    - {fileID: 2100000, guid: 8d91bdff04b06d4419b253f649a69102, type: 2}
+    - {fileID: 2100000, guid: e5b161ae3d30e6041a5863d562c02f1d, type: 2}
+    - {fileID: 2100000, guid: f090b614b684dc443a70f35bcd576ce8, type: 2}
+    - {fileID: 2100000, guid: c14e7fec144ecca49a2164d658493c6e, type: 2}
+    - {fileID: 2100000, guid: aca5cc839d8f9aa44a6636c62570cbf7, type: 2}
+    - {fileID: 2100000, guid: d61a9d3205fd0e546b66846a2a3f8db3, type: 2}
+    - {fileID: 2100000, guid: b5f499820b7e6db45b9d4fef60e6b242, type: 2}
+  - combinedMaterial: {fileID: 2100000, guid: a5e7ccdd3f5fc7443bc68398bbba9b9d, type: 2}
+    considerMeshUVs: 0
+    sourceMaterials:
+    - {fileID: 2100000, guid: 6b702beb08deb8745bf1c7405e517080, type: 2}
     - {fileID: 2100000, guid: 9b6a06e995c9e0b4d9f1ce2e7fc79444, type: 2}
-    - {fileID: 2100000, guid: a86d286ce33ce6b43bfce698a75cfced, type: 2}
+    - {fileID: 2100000, guid: c36d25465b7e085429824562e8202703, type: 2}
+    - {fileID: 2100000, guid: 9fac2e30dc40349478a9296b9a15cc16, type: 2}
     - {fileID: 2100000, guid: b06939d8a166d244bb7b1410a28ce505, type: 2}
+    - {fileID: 2100000, guid: ad7fc0b89acbb4b49ab7caba6d27d5f9, type: 2}
+    - {fileID: 2100000, guid: 707a170839b527a46bd1bd4ca09b09d7, type: 2}
+    - {fileID: 2100000, guid: c555a63f87c6fd7418b5d22c8e2fc508, type: 2}
+    - {fileID: 2100000, guid: 9cb727d4dbdb97941b91998af81a9e63, type: 2}
   resultMaterialsTexArray: []
-  doMultiMaterial: 0
+  doMultiMaterial: 1
